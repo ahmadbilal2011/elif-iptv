@@ -1,0 +1,6 @@
+{
+  "name": "ElifAI IPTV",
+  "description": "Production-ready Android TV IPTV Player powered by ElifAI with 10-foot TV UI, D-Pad navigation, Xtream Codes, M3U playlists, EPG guide, recordings, and built-in AI Assistant created by Ahmad Bilal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
